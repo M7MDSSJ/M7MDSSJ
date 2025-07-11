@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ismail-a72300208/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mi293721@gmail.com)
 
-🎓 **Cloud & DevOps Engineer | Electrical Engineer**  
+🎓 **Cloud & DevOps Engineer**  
 Passionate about designing and deploying production-ready cloud architectures on **AWS & Azure**, with strong focus on automation, CI/CD, secure networking, and cost-optimized infrastructure.
 
 ---
