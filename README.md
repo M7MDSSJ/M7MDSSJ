@@ -36,7 +36,7 @@ Passionate about designing and deploying production-ready cloud architectures on
 
 ## 📌 **Highlighted Projects**
 
-- ✈️ **Smart Travel Booking — Cloud Deployment**  
+- ☁️ **Full-Stack Application Cloud Deployment Using Azure**  
   Designed and deployed a **full-stack travel booking platform** on Azure for production use.  
   The project includes backend hosting on VM with PM2, static frontend on Blob Storage, **NGINX Reverse Proxy (Dev)**, and **Application Gateway (Prod)** for SSL, multi-site routing, and health probes.  
   Automated with **GitHub Actions CI/CD**, secured with VNet, subnets, NSGs, and **monitored with Azure Monitor, Activity Logs, and Alerts**.  
